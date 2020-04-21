@@ -14,6 +14,8 @@ namespace SalesWeb
     {
         public static void Main(string[] args)
         {
+
+            // EntrePoint da aplicação
             CreateWebHostBuilder(args).Build().Run();
         }
 
